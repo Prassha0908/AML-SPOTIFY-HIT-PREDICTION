@@ -56,7 +56,7 @@ Begin your spotify hit prediction journey with our easy-to-follow [usage guide](
 
 ## Team and Acknowledgments
 
-This project is a testament to the spirit of collaboration and innovation. We express our heartfelt gratitude to everyone who has contributed their time, expertise, and passion to bring the Market Basket Analysis.
+This project is a testament to the spirit of collaboration and innovation. We express our heartfelt gratitude to everyone who has contributed their time, expertise, and passion to bring the Spotify Hit Prediction.
 
 ### The Visionaries Behind Spotify Hit Prediction
 
